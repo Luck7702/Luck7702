@@ -90,13 +90,10 @@ I'm a Computer Science student based in Tangerang, Indonesia, focused on **backe
 <!-- ===== STATS ===== -->
 ## 📊 GitHub Activity
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://streak-stats.demolab.com/?user=Luck7702&theme=tokyonight&hide_border=true" alt="Total contributions" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck7702&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
+</div>
 
 ---
 
