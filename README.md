@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:7B2FF7&height=180&section=header&text=Dennis C. Hansell&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:7B2FF7&height=180&section=header&text=Dennis%20C.%20Hansell&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
