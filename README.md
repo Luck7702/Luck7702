@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:7B2FF7&height=180&section=header&text=Dennis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:7B2FF7&height=180&section=header&text=Dennis C. Hansell&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -16,7 +16,6 @@ I'm a Computer Science student based in Tangerang, Indonesia, focused on **backe
 
 - 🌱 Learning AWS (working toward Cloud Practitioner)
 - 🧩 Backend & cloud is my lane; I dabble across the full stack
-- 🎮 Valorant when I'm off the clock
 
 <br />
 
@@ -105,10 +104,10 @@ I'm a Computer Science student based in Tangerang, Indonesia, focused on **backe
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/dennis-hansell">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:dennisch2206@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
