@@ -91,7 +91,7 @@ I'm a Computer Science student based in Tangerang, Indonesia, focused on **backe
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Luck7702&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Luck7702&theme=tokyonight&hide_border=true" alt="Total contributions" />
+  <img src="https://streak-stats.demolab.com/?user=Luck7702&theme=tokyonight&hide_border=true" alt="Total contributions" />
 </p>
 
 <p align="center">
