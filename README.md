@@ -124,9 +124,6 @@ I'm a Computer Science student at BINUS University in Tangerang, Indonesia, curr
   <a href="mailto:dennisch2206@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://bataviahosting.com">
-    <img src="https://img.shields.io/badge/BataviaHosting-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BataviaHosting" />
-  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00ADD8&height=120&section=footer" alt="footer" />
