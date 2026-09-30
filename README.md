@@ -34,10 +34,6 @@ I'm a Computer Science student at BINUS University in Tangerang, Indonesia, curr
 <!-- ===== TECH STACK ===== -->
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages
-
-Go is my home base for anything backend. Python comes out for scripting, data work, and ML experiments. C is where I learned how memory and algorithms actually work, and Bash holds my servers together.
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -49,11 +45,6 @@ Go is my home base for anything backend. Python comes out for scripting, data wo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ☁️ AWS
-
-This is where I spend most of my time. I've run production workloads on EC2 and Lambda, designed VPCs from scratch, built event-driven pipelines with SQS and Fargate, and worked on a GCP-to-AWS migration PoC during my internship.
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
@@ -73,11 +64,6 @@ This is where I spend most of my time. I've run production workloads on EC2 and 
 ![Systems Manager](https://img.shields.io/badge/Systems%20Manager-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Rekognition](https://img.shields.io/badge/Rekognition-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS SDK](https://img.shields.io/badge/AWS%20SDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### 🏗️ Infrastructure, Networking & IaC
-
-I choose Terraform over CloudFormation because I want my infrastructure to stay portable across clouds. I've set up Nginx reverse proxies, handled HTTPS with Certbot and ACM, and designed private networking with VPNs and bastion access.
-
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -85,11 +71,6 @@ I choose Terraform over CloudFormation because I want my infrastructure to stay 
 ![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-I build REST APIs in Go and secure them with JWT and OAuth. When I need to move fast in Python, I reach for FastAPI or Django.
-
 ![REST API](https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-222222?style=for-the-badge&logo=oauth&logoColor=white)
@@ -97,47 +78,21 @@ I build REST APIs in Go and secure them with JWT and OAuth. When I need to move 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Databases
-
-PostgreSQL is my default database. I use Redis when something needs to be fast or real-time, and DynamoDB when a serverless design fits better.
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚢 DevOps & CI/CD
-
-I containerize everything with Docker, ship it with GitHub Actions, and deploy it with Terraform so the whole pipeline stays consistent.
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Frontend & Mobile
-
-Backend is my lane, but I can build the front of the house too when a project needs it.
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-### 🤖 Data & ML
-
-I use these for research and experiments, like benchmarking ML-driven DNS resolver selection.
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🧰 Tools I Live In
-
-These are the tools I use for coding, testing APIs, diagramming architecture, and working alongside AI.
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
